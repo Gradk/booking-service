@@ -66,5 +66,5 @@ export class AdminController {
     return admin;
   }
 
-  //дописать подтверждение почты
+  //дописать подтверждение почты здесь
 }
